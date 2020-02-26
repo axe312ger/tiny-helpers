@@ -70,6 +70,18 @@
     "addedAt": "2019-12-29"
   },
   {
+    "name": "colornamer",
+    "desc": "Find a name for a given color. Very helpful for variable names.",
+    "url": "https://colornamer.netlify.com/",
+    "tags": [
+      "Color"
+    ],
+    "maintainers": [
+      "robertcoopercode"
+    ],
+    "addedAt": "2020-02-26"
+  },
+  {
     "name": "CSS Cursors",
     "url": "https://csscursor.info/",
     "desc": "Have a look at all these CSS Cursors",
